@@ -1,7 +1,7 @@
-import StatsCards from "../components/StatsCards";
-import PredictionForm from "../components/PredictionForm";
-import AttackChart from "../components/AttackChart";
-import ShapSection from "../components/ShapSection";
+import StatsCards from "../Components/StatsCards";
+import PredictionForm from "../Components/PredictionForm";
+import AttackChart from "../Components/AttackChart";
+import ShapSection from "../Components/ShapSection";
 
 function Dashboard() {
   return (
